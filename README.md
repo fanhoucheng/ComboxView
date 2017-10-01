@@ -8,6 +8,9 @@
 </br>2.If ComboxView on top，will pop down
 </br>3.Support customization item
 </br>4.Support IB_DESIGNABLE
+![](https://github.com/fanhoucheng/ComboxView/blob/master/Snip20171001_2.png)
+![](https://github.com/fanhoucheng/ComboxView/blob/master/Snip20171001_3.png)
+
 
 Sample code:
  
